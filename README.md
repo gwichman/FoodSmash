@@ -1,4 +1,4 @@
-Food Smash
+**Food Smash**
 
 Click on food before it falls off the screen to score points.
 Click on skulls and you will LOSE POINTS.
